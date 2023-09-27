@@ -1,0 +1,12 @@
+**Defect #1**
+-------------------
+Severity: [high]
+Priority: high]
+Detected By: [Swati]
+Detected On: [11 Sept 2023]
+
+**Description:**
+Unable to loged in even after registeration,loged in only by registration page Username apssword login is not working.
+
+**Attachments/Links:**
+https://parabank.parasoft.com/parabank/services.htm
